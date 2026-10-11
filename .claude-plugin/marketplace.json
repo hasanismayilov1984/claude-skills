@@ -1,0 +1,14 @@
+{
+  "name": "hasan-skills",
+  "description": "Hasan Ismayilov's Claude Code skills for job search, code review, and repo hygiene",
+  "owner": {
+    "name": "Hasan Ismayilov"
+  },
+  "plugins": [
+    {
+      "name": "hasan",
+      "source": "./plugins/hasan",
+      "description": "Resume keyword tailoring, code review, and secrets scanning"
+    }
+  ]
+}
